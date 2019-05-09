@@ -26,5 +26,4 @@ My notes from attending the filming of the FrontendMasters course [Digging Into 
 - `sqlite3`: a decent database
 - `node-static-alias`: serve static files
 - `node-fetch`: just like `fetch` in the browser
-- `express`: library for web-server apps
-- 
+- `express`: insanely popular library for web-server apps

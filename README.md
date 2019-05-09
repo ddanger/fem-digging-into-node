@@ -16,6 +16,14 @@ My notes from attending the filming of the FrontendMasters course [Digging Into 
   - Return to chrome and see a new row referencing the running script and an *inspect* link ... click it
   - Go to the Sources tab and click `Pause on exceptions` and check the checkbox
   - When you hit an exception, debug!
+- Production tips:
+  - Use "forever" or something like it to restart your node process if it dies
+  - single node process SSL
+  - loopback monitoring tools for node
+  - the Node org ships a production hardened version of Node.
+  - watch the FEM courses
+    - [Full-Stack for Front-Ends](https://frontendmasters.com/courses/full-stack/)
+    - [Full-stack for Front-Ends Part 2](https://frontendmasters.com/courses/full-stack-v2/)
   
 ## Packages Used
 ### Included with Node

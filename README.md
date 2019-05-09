@@ -9,7 +9,14 @@ My notes from attending the filming of the FrontendMasters course [Digging Into 
 - GZip compression was designed as a streaming algorithm
 - Streams have events you can listen to, like "end" to know when a stream is done
 - Wow `console.table()` is pretty cool for printing arrays of flat objects (e.g. any DB data)
-
+- Debugging in Chrome:
+  - Use GoogleChromeLabs/ndb or ...
+  - Open Chrome and navigate to this URL: chrome://inspect/#devices
+  - Launch a node script with `node --inspect <name of script file>`
+  - Return to chrome and see a new row referencing the running script and an *inspect* link ... click it
+  - Go to the Sources tab and click `Pause on exceptions` and check the checkbox
+  - When you hit an exception, debug!
+  
 ## Packages Used
 ### Included with Node
 - `path`: deal with file paths

@@ -5,6 +5,7 @@ The main takeaways for me were:
  - becoming familiar with how stream processing works in Node code
  - becoming familiar with core packages to use
  - learning how to make a simple webserver without using Express
+ - learning how to spawn processes in Node to create parallelism for load tests against a server
  
  I'm not sure when, if ever, I'll use this. If I ever have to do serious Node work, I may reference the video or these notes.
 

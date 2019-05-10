@@ -34,6 +34,8 @@ The main takeaways for me were:
     - [Full-stack for Front-Ends Part 2](https://frontendmasters.com/courses/full-stack-v2/)
   
 ## Packages Used
+There are sooo many packages available in the Node ecosystem. It's good to see what someone like Kyle uses..
+
 ### Included with Node
 - `path`: deal with file paths
 - `fs`: deal with files

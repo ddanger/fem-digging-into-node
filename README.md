@@ -3,7 +3,7 @@ My notes from attending the filming of the FrontendMasters course [Digging Into 
 
 ## Random Notes
 - JS is well-suited to high throughput / low latency tasks
-- The author of Node originally was writing a system in Ruby, but found he needed the JS event loop, so he switched to JS to get that for free.
+- The author of Node originally was writing a system in Ruby, but found he needed something like the JS event loop, so he switched to JS to get that for free.
 - Node is well-suited to usage as a "middle end" system to bridge between frontend/backend
 - Add `#!/usr/bin/env node` to top of your Node script file and make executable so you can run it from cmd line without referencing `node`
 - GZip compression was designed as a streaming algorithm

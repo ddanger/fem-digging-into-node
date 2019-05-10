@@ -1,5 +1,5 @@
-# Digging Into Node (Frontend Masters, Kyle Simpson)
-My notes from attending the filming of the Frontend Masters course [Digging Into Node](https://frontendmasters.com/workshops/digging-into-node/) by Kyle Simpson.
+# Digging Into Node (Frontend Masters, Kyle Simpson, 5/9/2019)
+My notes from attending the filming of the Frontend Masters course [Digging Into Node](https://frontendmasters.com/workshops/digging-into-node/) by Kyle Simpson
 
 The main takeaways for me were becoming familiar with how stream processing works in Node code and how to make a simple webserver without using Express. I'm not sure when, if ever, I'll use this. If I ever have to do serious Node work, I'll reference the video.
 

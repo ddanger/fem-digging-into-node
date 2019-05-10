@@ -1,8 +1,11 @@
-# fem-digging-into-node
-My notes from attending the filming of the FrontendMasters course [Digging Into Node](https://frontendmasters.com/workshops/digging-into-node/) by Kyle Simpson.
+# Digging Into Node (Frontend Masters, Kyle Simpson)
+My notes from attending the filming of the Frontend Masters course [Digging Into Node](https://frontendmasters.com/workshops/digging-into-node/) by Kyle Simpson.
+
+The main takeaways for me were becoming familiar with how stream processing works in Node code and how to make a simple webserver without using Express. I'm not sure when, if ever, I'll use this. If I ever have to do serious Node work, I'll reference the video.
 
 ## Random Notes
 - JS is well-suited to high throughput / low latency tasks
+- Kyle was attempting to write a server-side JavaScript engine with V8 before he heard of Node. He was excited when Node was released.
 - The author of Node originally was writing a system in Ruby, but found he needed something like the JS event loop, so he switched to JS to get that for free.
 - Node is well-suited to usage as a "middle end" system to bridge between frontend/backend
 - Add `#!/usr/bin/env node` to top of your Node script file and make executable so you can run it from cmd line without referencing `node`
@@ -41,4 +44,4 @@ My notes from attending the filming of the FrontendMasters course [Digging Into 
 - `sqlite3`: a decent database
 - `node-static-alias`: serve static files
 - `node-fetch`: just like `fetch` in the browser
-- `express`: insanely popular library for web-server apps
+- `express`: ubiquitous library for web-server apps
